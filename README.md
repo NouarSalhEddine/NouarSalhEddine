@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouar Salah Eddine</h1>
-<h3 align="center">Computer Science Engineer - Junior in Web Development with 2+ Years experience. Code/ front end/ back end.* 🌍 I'm based in algeria</h3>
+<h3 align="center">Computer Science Engineer in Web Development with 2+ Years experience.* 🌍 I'm based in algeria</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
